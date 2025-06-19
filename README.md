@@ -1,4 +1,4 @@
-
+<img src="portada.jpeg" alt="Banner de Victor Montejo" style="width:100%;"/>
 <h1 align="center"> ¡Hola! 👋 soy Victor Montejo</h1>
 🎓 Estudiante de Análisis de Sistemas
 🧪 Amante de la tecnología, el desarrollo y los desafíos
