@@ -1,7 +1,7 @@
 <img src="portada.jpeg" alt="Banner de Victor Montejo" style="width:100%;"/>
 
 
-</style>
+
 <h1 align="center"> ¡Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai"> I'm Victor Montejo</h1>
 
 <p align="center">
