@@ -1,6 +1,7 @@
 <img src="portada.jpeg" alt="Banner de Victor Montejo" style="width:100%;"/>
 
- 
+
+</style>
 <h1 align="center"> ¡Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai"> I'm Victor Montejo</h1>
 
 <p align="center">
@@ -48,30 +49,29 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  </p>
 
-
 <table>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>💻 Backend:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,spring,nodejs" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>🎨 Frontend:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,figma" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> <strong>🛢️ Database:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>🛠️ Version Control:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=git,github" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>🧠 IDEs</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,sublime" /></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"><strong>💻 OS</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=windows" /></td>
   </tr>
 </table>
