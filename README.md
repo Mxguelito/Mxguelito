@@ -22,12 +22,9 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🎓 Soy estudiante de Análisis de Sistemas.
-- 🧪 Amante de la tecnología, el desarrollo y los desafíos.
-- 💪 Fanático del gym y del progreso constante.
-- 🚀 Creciendo como developer.
-- 📍  Buenos Aires, Argentina.
-- 📧 montejovictor779@gmail.com
+<strong>Desarrollador Full Stack | Estudiante avanzado de Analista en Sistemas | Python · FastAPI · React · TypeScript · PostgreSQL
+📍  Buenos Aires, Argentina.
+📧 montejovictor779@gmail.com</strong>
 
 </td>
 <td width="50%" align="center">
