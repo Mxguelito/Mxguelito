@@ -79,10 +79,6 @@
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mxguelito&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mxguelito&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mxguelito&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mxguelito&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mxguelito&theme=solarized_dark&utcOffset=8">
-	
 </p>
 
 
